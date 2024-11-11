@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+.pseudo{
+	background-color:rgb(135,206,235);
+}
+ul{
+	width:50%;
+	padding:10px
+}
