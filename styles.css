@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 .pseudo{
-	background-color:rgb(135,206,235);
+	background-color:var(--maincolor);
 }
 ul{
 	width:50%;
@@ -12,4 +12,7 @@ ul{
 }
 .r3{
 	color:red;
+}
+:root{
+	--maincolor:rgb(135,206,235)
 }
