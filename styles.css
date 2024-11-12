@@ -4,15 +4,19 @@
 }
 ul{
 	width:50%;
-	padding:10px
+	padding:10px;
+	color:black
 }
-.r1{
+/* p::first-child {
 	color:white;
 	background-color:black;
 }
-.r3{
-	color:red;
+p::nth-child(2) {
+	background-color:rgb(135,206,235);
 }
+p::last-child {
+	color:red;
+} */
 :root{
-	--maincolor:rgb(135,206,235)
+	--maincolor:rgb(135,206,235);
 }
