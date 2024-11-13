@@ -7,16 +7,16 @@ ul{
 	padding:10px;
 	color:black
 }
-/* p::first-child {
+.pseudo p:first-child {
 	color:white;
 	background-color:black;
 }
-p::nth-child(2) {
+.pseudo p:nth-child(2) {
 	background-color:rgb(135,206,235);
 }
-p::last-child {
+.pseudo p:last-child {
 	color:red;
-} */
+}
 :root{
 	--maincolor:rgb(135,206,235);
 }
